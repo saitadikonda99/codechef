@@ -1,6 +1,7 @@
 
 #include<stdio.h>
 int main() {
+
                                  //Read the number of test cases.
 int T;
 
